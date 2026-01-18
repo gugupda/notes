@@ -1,1 +1,19 @@
-笔记
+存储笔记
+目录如下
+notes
+  |--base
+     |--github
+  |--python
+     |--python语言
+     |--GUI
+         |--Nicegui
+  |--jvm  
+     |--java语言
+     |--kotlin语言
+     |--
+  |--frontend
+     |--JavaScript语言
+     |--TypeScript语言
+     |--Nodejs基础
+  | 
+  
